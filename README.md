@@ -246,23 +246,9 @@ Response + Chat History
 The application can be deployed on
 
 - Streamlit Community Cloud
-- Render
-- Hugging Face Spaces
-- Docker
 
 ---
 
-# 📷 Screenshots
-
-You can add screenshots of
-
-- Login Page
-- Dashboard
-- PDF Upload
-- Chat Interface
-- Generated Responses
-
----
 
 # 👩‍💻 Author
 
