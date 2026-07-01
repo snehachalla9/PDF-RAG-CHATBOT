@@ -122,8 +122,8 @@ PDF-RAG-CHATBOT/
 Clone the repository
 
 ```bash
-git clone https://github.com/snehachalla9/PDF-RAG-CHATBOT.git
-cd PDF-RAG-CHATBOT
+git clone https://github.com/snehachalla9/Agentic-PDF-Research-Assistant.git
+cd Agentic-PDF-Research-Assistant.git
 ```
 
 Create a virtual environment
