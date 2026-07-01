@@ -1,5 +1,32 @@
+# venv/
+# __pycache__/
+# .env
+# chroma_db/
+# *.pyc
+# Virtual Environment
 venv/
-__pycache__/
+
+# Environment Variables
 .env
-chroma_db/
+
+# Python
+__pycache__/
 *.pyc
+
+# Chroma Database
+chroma_db/
+
+# Uploaded PDFs
+uploads/
+
+# Ignore PDFs in project root (remove this line if you want to keep documentation PDFs)
+*.pdf
+
+# Streamlit cache
+.streamlit/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
